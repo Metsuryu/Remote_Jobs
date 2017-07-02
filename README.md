@@ -44,3 +44,12 @@ Feel free to suggest new ones with pull requests.
 * [remotejobr](https://remotejobr.com/)
 
 * [remotepython](https://www.remotepython.com/): Python specific
+
+#### Other
+
+* [codersclan](https://www.codersclan.com/): Registered recently, currently I'm waiting for them to screen me.
+
+* [crew.co](https://crew.co/): Registered recently, currently I'm waiting for them to screen me.
+
+* [hired](https://hired.com/): Registered a while ago. Didn't get any offer yet.
+
