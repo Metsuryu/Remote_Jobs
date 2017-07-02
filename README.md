@@ -16,9 +16,12 @@ Feel free to suggest new ones with pull requests.
 
 #### High tier
 
-* [angel.co](https://angel.co/): It's mostly startups, so many of them offer only equity, but there are some that offer money. There are many jobs, the search filters are good, and it's easy to apply, meaning the response rate is not bad, so it's one of the best sites I've tried so far.
+* [angel.co](https://angel.co/): Under "Location" select "Remote OK".   
+It's mostly startups, so many of them offer only equity, but quite a few offer money.   
+There are many jobs, the search filters are good, and it's easy to apply, meaning the response rate fairly high, so it's one of the best sites I've tried so far.
 
-* [StackOverflow](https://stackoverflow.com/jobs?sort=i&r=true) With remote check enabled. There aren't many job posts usually, but the jobs tend to be of higher quality.
+* [StackOverflow](https://stackoverflow.com/jobs?sort=i&r=true) Under "Perks" enable "Offers remote".  
+There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [authenticjobs](https://www.authenticjobs.com): Allows searching for remote jobs, and has a good filter function.
 
