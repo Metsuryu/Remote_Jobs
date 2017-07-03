@@ -16,27 +16,27 @@ Feel free to suggest new ones with pull requests.
 
 #### High tier
 
-* [angel.co](https://angel.co/): Under "Location" select "Remote OK".   
+* [angel.co](https://angel.co/) - Under "Location" select "Remote OK".   
 It's mostly startups, so many of them offer only equity, but quite a few offer money.   
 There are many jobs, the search filters are good, and it's easy to apply, meaning the response rate fairly high, so it's one of the best sites I've tried so far.
 
-* [StackOverflow](https://stackoverflow.com/jobs?sort=i&r=true) Under "Perks" enable "Offers remote".  
+* [StackOverflow](https://stackoverflow.com/jobs?sort=i&r=true) - Under "Perks" enable "Offers remote".  
 There aren't many job posts usually, but the jobs tend to be of higher quality.
 
-* [authenticjobs](https://www.authenticjobs.com): Allows searching for remote jobs, and has a good filter function.
+* [authenticjobs](https://www.authenticjobs.com) - Allows searching for remote jobs, and has a good filter function.
 
-* [whoishiring](https://whoishiring.io/): Can filter remote jobs easily, and has other useful filtering functions.
+* [whoishiring](https://whoishiring.io/) - Can filter remote jobs easily, and has other useful filtering functions.
 
 
 #### Medium tier
 
-* [linkedin](https://www.linkedin.com/jobs/): Can't really search for remote jobs specifically, have to use the search function that is not great.
+* [linkedin](https://www.linkedin.com/jobs/) - Can't really search for remote jobs specifically, have to use the search function that is not great.
 
-* [indeed](https://www.indeed.com): Again must use the search function with something like "Remote Web Developer", not very efficient.
+* [indeed](https://www.indeed.com) - As above, must use the search function with something like "Remote Web Developer", not very efficient.
 
-* [Upwork](https://www.upwork.com/): There are a lot of jobs listed, but there is also a lot of comptetition, and clients tend to hire devs that live in poor countries that can work for very low pay, making it even harder to get hired.
+* [Upwork](https://www.upwork.com/) - There are a lot of jobs listed, but there is also a lot of comptetition, and clients tend to hire devs that live in poor countries that can work for very low pay, making it even harder to get hired.
 
-* [Codeable](https://codeable.io/): Lots of wordpress work,but you must pass an interview to be able to apply to jobs.
+* [Codeable](https://codeable.io/) - Lots of wordpress work,but you must pass an interview to be able to apply to jobs.
 
 #### Simple Lists of jobs (little or no additional functionalities like search filters)
 
@@ -48,13 +48,15 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [remotejobr](https://remotejobr.com/)
 
-* [remotepython](https://www.remotepython.com/): Python specific
+* [remotepython](https://www.remotepython.com/) - Python specific
 
 #### Other
 
-* [codersclan](https://www.codersclan.com/): Registered recently, currently I'm waiting for them to screen me.
+* [CodeMentor.io](https://www.codementor.io) - Must be approved after registering. Can mentor people or solve small coding problems by clients.
 
-* [crew.co](https://crew.co/): Registered recently, currently I'm waiting for them to screen me.
+* [codersclan](https://www.codersclan.com/) - Registered recently, currently I'm waiting for them to screen me.
 
-* [hired](https://hired.com/): Registered a while ago. Didn't get any offer yet.
+* [crew.co](https://crew.co/) - Registered recently, currently I'm waiting for them to screen me.
+
+* [hired](https://hired.com/) - Registered a while ago. Didn't get any offer yet.
 
