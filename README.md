@@ -80,8 +80,6 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [CodeMentor.io](https://www.codementor.io) - Must be approved after registering. Can mentor people or solve small coding problems by clients.
 
-* [hackhands](hackhands.com)** - Similar to CodeMentor.
-
 * [codersclan](https://www.codersclan.com/)**
 
 * [crew.co](https://crew.co/)**
