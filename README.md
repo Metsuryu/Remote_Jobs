@@ -74,6 +74,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [remotepython](https://www.remotepython.com/) - Python specific
 
+* [worknremote](https://worknremote.com)
+
 #### Other
 
 **Waiting for verification.
