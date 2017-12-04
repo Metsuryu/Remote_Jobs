@@ -49,7 +49,7 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [loom.co](https://www.loom.co) - Can't search for remote jobs specifically. Most jobs offer only equity, but some offer cash.
 
 * [Codestunts](https://codestunts.com/) - Software development only, allows freelancers from EU and US
-    
+
 * [Codeable](https://codeable.io/) - Lots of wordpress work, but you must pass an interview to be able to apply to jobs.
 
 #### Simple Lists of remote jobs (Little or no additional functionalities like search filters)
@@ -57,8 +57,6 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [WeWorkRemotely](https://weworkremotely.com/)
 
 * [remoteok](https://remoteok.io/remote-dev-jobs)
-
-* [remotejs](https://remotejs.co/)
 
 * [remotejobr](https://remotejobr.com/)
 
