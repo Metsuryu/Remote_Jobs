@@ -78,6 +78,10 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [worknremote](https://worknremote.com)
 
+* [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
+
+* [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+
 #### Other
 
 **Waiting for verification.
@@ -97,8 +101,3 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [toptal](https://www.toptal.com)**
 
 * [x-team](https://x-team.com)**
-
-* [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
-
-* [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
-
