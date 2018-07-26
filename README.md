@@ -98,6 +98,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [sevendays.co](https://www.sevendays.co)**
 
+* [soshace.com](https://soshace.com/)**
+
 * [toptal](https://www.toptal.com)**
 
 * [x-team](https://x-team.com)**
