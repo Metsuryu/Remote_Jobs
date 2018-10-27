@@ -34,8 +34,6 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [nofluffjobs](https://nofluffjobs.com/#/criteria=remote=100)*
 
 * [peopleperhour](https://www.peopleperhour.com)*
-* [RemoteML](https://remoteml.com/)*
-
 
 #### Medium tier (Lacks one or more features I want)
 
@@ -82,6 +80,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
 
 * [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
+
+* [RemoteML](https://remoteml.com/)* AI/Machine learning jobs
 
 #### Other
 
