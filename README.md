@@ -81,7 +81,7 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
 
-* [RemoteML](https://remoteml.com/)* AI/Machine learning jobs
+* [RemoteML](https://remoteml.com/) - AI/Machine learning jobs
 
 #### Other
 
