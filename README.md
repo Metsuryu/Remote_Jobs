@@ -83,6 +83,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [RemoteML](https://remoteml.com/) - AI/Machine learning jobs
 
+* [Remoter.NET](https://remoter.net) - Remote jobs aggregator for Developers, Designers, Writers, Marketing & more.
+
 #### Other
 
 **Waiting for verification.
