@@ -85,6 +85,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [Remoter.NET](https://remoter.net) - Remote jobs aggregator for Developers, Designers, Writers, Marketing & more.
 
+* [FreshRemote.work](https://freshremote.work/) - Fresh remote tech and non-tech jobs.
+
 #### Other
 
 **Waiting for verification.
