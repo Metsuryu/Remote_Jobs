@@ -35,7 +35,7 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [peopleperhour](https://www.peopleperhour.com)*
 
-* [linkedin](https://www.linkedin.com/jobs/)
+* [linkedin](https://www.linkedin.com/jobs/)*
 
 #### Medium tier (Lacks one or more features I want)
 
