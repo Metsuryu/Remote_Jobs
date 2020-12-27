@@ -35,9 +35,9 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [peopleperhour](https://www.peopleperhour.com)*
 
-#### Medium tier (Lacks one or more features I want)
+* [linkedin](https://www.linkedin.com/jobs/)
 
-* [linkedin](https://www.linkedin.com/jobs/) - Can't really search for remote jobs specifically, have to use the search function that is not great.
+#### Medium tier (Lacks one or more features I want)
 
 * [indeed](https://www.indeed.com) - As above, must use the search function with something like "Remote Web Developer", not very efficient.
 
