@@ -37,6 +37,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [linkedin](https://www.linkedin.com/jobs/)*
 
+* [CodeMentor.io](https://www.codementor.io) - Must be approved after registering. Can mentor people or solve small coding problems by clients.
+
 #### Medium tier (Lacks one or more features I want)
 
 * [indeed](https://www.indeed.com) - As above, must use the search function with something like "Remote Web Developer", not very efficient.
@@ -91,8 +93,6 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 **Waiting for verification.
 
-* [CodeMentor.io](https://www.codementor.io) - Must be approved after registering. Can mentor people or solve small coding problems by clients.
-
 * [codersclan](https://www.codersclan.com/)**
 
 * [crew.co](https://crew.co/)**
@@ -108,3 +108,10 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 * [toptal](https://www.toptal.com)**
 
 * [x-team](https://x-team.com)**
+
+* [swissdevjobs](https://swissdevjobs.ch/jobs/all/remote) (Swiss remote jobs)
+
+* [germantechjobs](https://germantechjobs.de/jobs/all/remote) (German remote jobs)
+
+* [devitjobs](https://devitjobs.uk/jobs/all/remote) (UK remote jobs)
+
