@@ -115,3 +115,5 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [devitjobs](https://devitjobs.uk/jobs/all/remote) (UK remote jobs)
 
+* [arbeitnow](https://arbeitnow.com/remote-jobs) and [four-day-week-jobs filter](https://arbeitnow.com/four-day-week-jobs)
+
