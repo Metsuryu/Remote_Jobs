@@ -117,3 +117,5 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [arbeitnow](https://arbeitnow.com/remote-jobs) and [four-day-week-jobs filter](https://arbeitnow.com/four-day-week-jobs)
 
+* [WeAreDevelopers](https://www.wearedevelopers.com/)* 
+
