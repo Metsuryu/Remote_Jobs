@@ -79,6 +79,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [worknremote](https://worknremote.com)
 
+* [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter on remote
+
 * [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) - Go/Golang jobs, filter on remote
 
 * [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) - AI/Machine learning jobs, filter on remote 
