@@ -121,3 +121,5 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [WeAreDevelopers](https://www.wearedevelopers.com/)* 
 
+* [freelancermap.com](https://www.freelancermap.com/projects/remote.html)*
+
