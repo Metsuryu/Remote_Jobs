@@ -27,6 +27,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [authenticjobs](https://www.authenticjobs.com)*
 
+* [Himalayas](https://himalayas.app)*
+
 * [whoishiring](https://whoishiring.io/)*
 
 * [landing.jobs](https://landing.jobs/jobs?page=1&remote=true)*
