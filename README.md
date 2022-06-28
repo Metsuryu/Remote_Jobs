@@ -93,6 +93,8 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [FreshRemote.work](https://freshremote.work/) - Fresh remote tech and non-tech jobs.
 
+* [https://hotfixo.com/remote-jobs](https://hotfixo.com/remote-jobs) - remote jobs, information about salaries
+
 #### Other
 
 **Waiting for verification.
