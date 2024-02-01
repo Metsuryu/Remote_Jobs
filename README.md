@@ -127,3 +127,4 @@ There aren't many job posts usually, but the jobs tend to be of higher quality.
 
 * [freelancermap.com](https://www.freelancermap.com/projects/remote.html)*
 
+* [okjob.io](https://www.okjob.io) - 4 day week job board 
